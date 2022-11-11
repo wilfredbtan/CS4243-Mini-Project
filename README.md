@@ -17,3 +17,8 @@
     chmod +x ./splitTrainTest.sh
     ./splitTrainTest.sh
   ```
+
+- Run visualization scripts:
+
+Install all requirements on pytorch
+Run `python generate.py`
